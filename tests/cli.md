@@ -1,0 +1,5 @@
+[existing file](https://github.com/cli/cli/blob/trunk/README.md)
+[existing file](https://github.com/cli/cli/blob/trunk/docs/command-line-syntax.md)
+[existing title](https://github.com/cli/cli/blob/trunk/docs/command-line-syntax.md#literal-text)
+[missing title](https://github.com/cli/cli/blob/trunk/docs/command-line-syntax.md#does-not-exist)
+[missing file](https://github.com/cli/cli/blob/trunk/docs/does-not-exist.md)
